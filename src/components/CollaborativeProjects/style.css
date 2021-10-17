@@ -1,0 +1,46 @@
+.leaderDiv {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.introToProjects {
+    width: 50vw;
+    align-self: center;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.projectDivHolder {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.imgDiv2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.imgDiv2 img {
+    margin-bottom: 25px;
+    border: 2px solid black;
+}
+
+.imgDiv2 p {
+    width: 615px;
+    margin-bottom: 20px;
+}
+
+.boldMe {
+    font-weight: 600;
+}
+
+.diffP {
+    color: #0d6efd;
+}
+
+.underlineMe {
+    text-decoration: underline;
+}

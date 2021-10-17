@@ -1,0 +1,27 @@
+.container2 {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.structure {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-weight: 600;
+}
+
+.icons i {
+    margin-bottom: 15px;
+    color: blue;
+}
+
+.boldMe {
+    font-weight: 600;
+}

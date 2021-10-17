@@ -1,0 +1,16 @@
+.customJumbo {
+    min-height: 220px;
+    background-color: #0d6efd;
+}
+
+.holderOfHandP {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+
+.display-4 {
+    padding-top: 38px;
+}
